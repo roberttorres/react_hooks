@@ -1,1 +1,1 @@
-Exemplo de Projeto React com a funcionalidade de Hooks.
+React Project example using the Hooks functionality.
